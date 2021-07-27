@@ -1,5 +1,3 @@
 pandas
 numpy
 sklearn
-tarfile
-six.moves
